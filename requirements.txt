@@ -1,0 +1,3 @@
+pyTelegramBotAPI==3.7.9
+Telethon==1.22.0
+psutil==5.8.0
